@@ -1,0 +1,4 @@
+name;category;calories_per_100g;protein_per_100g;carbohydrates_per_100g;fat_per_100g;fiber_per_100g;portion_name;portion_grams;source
+Egg;Eggs and egg products;140;13.13;0;9.69;0;;;TürKomp
+Whole wheat bread;Grain products;258;10.79;43.66;3.35;4.86;;;TürKomp
+Banana;Fruits;77;0.58;17.64;0.28;1.57;;;TürKomp
